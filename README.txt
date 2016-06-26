@@ -15,6 +15,9 @@ HOW TO START THIS PROJECT: run the class PuckYou with void main(), make sure you
 AUTHORS: Aaron Brown
 USER INSTRUCTIONS:
 
+First make sure to unzip the textures folder and place it in the same directory as the java code, this contains all the graphics for
+the game to work properly.
+
 To start the game press"Start Pucking" with the mouse clicker, its the only button that works on that screen. You can
 choose your difficulty at the bottom of next screen, EASY, MEDIUM, HARD, PUCKING CRAZY, it will become highlighted orange and then click
 START on the bottom right. Click and drag the blue paddle to move your player, the rules are traditional air hockey, first to score 7 wins. 
